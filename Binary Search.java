@@ -24,3 +24,6 @@ class BinarySearch{
             System.out.println("Element is found at index: "+result);  
     }  
 }  
+
+//TC::log(n)
+//SC::O(1)

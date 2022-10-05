@@ -59,5 +59,5 @@ git push
 ## Swags🔥🔥
 
 To qualify for the **official Limited Edition HacktoberFest Shirt**, you must make four Pull Requests(PRs) between 1st Oct and 31st Oct.
-First**40,000** participants who complete the challenge will earn a **T-Shirt**
+First **40,000** participants who complete the challenge will earn a **T-Shirt**.
 

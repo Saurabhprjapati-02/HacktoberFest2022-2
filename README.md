@@ -15,7 +15,6 @@ Hacktoberfest 2022 is finally here, and we're pretty excited about it. Open sour
 
 ```
 git clone https://github.com/erx21/HacktoberFest2022
-
 ```
 - Navigate to project directory.
 ```
